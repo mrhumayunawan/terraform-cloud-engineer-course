@@ -1,5 +1,5 @@
 # Terraform Cloud Engineer Course - Projects & Demos
-![Terraform](./image.png)
+![Terraform](./Tf.png)
 
 
 ## Course Modules Overview
