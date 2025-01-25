@@ -1,5 +1,3 @@
----
-
 # Terraform Resource Meta-Argument Count
 
 **Description:** Learn the Terraform Resource Meta-Argument `count` and how it simplifies resource provisioning for repetitive tasks. This guide provides examples and practical steps to implement the `count` argument.
