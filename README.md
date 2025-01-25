@@ -1,7 +1,6 @@
 # Terraform Cloud Engineer Course - Projects & Demos
 ![Terraform](./Tf.png)
 
-
 ## Course Modules Overview
 
 This repository contains a collection of Terraform-based projects, designed and implemented by **HumayunBashirAwan** covering various concepts and scenarios to help you master Terraform with hands-on demos.

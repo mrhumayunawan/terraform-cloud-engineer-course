@@ -1,9 +1,15 @@
 #!/bin/sh
 
-echo "Adding files and committing changes locally"
-git add .
-git commit -am "Update repository: Terraform Cloud Engineer Course Projects"
+# Script for automating git add, commit, and push
 
-echo "Pushing changes to GitHub repository"
+echo "Staging all changes..."
+git add .
+
+echo "Committing changes with a descriptive message..."
+git commit -am "Update: Terraform Cloud Engineer Course Projects"
+
+echo "Pushing changes to the main branch on GitHub..."
 git push origin main
+
+echo "Deployment complete!"
 

@@ -1,7 +1,7 @@
----
-title: Terraform Settings, Providers and Resource Blocks 
-description: Learn Key concepts of Terraform, including settings, providers, and resource blocks. It provides practical examples and step-by-step instructions to help you learn and apply these concepts.
----
+# Terraform Settings, Providers, and Resource Blocks
+
+**Description:** Dive into the key concepts of Terraform, including settings, providers, and resource blocks. This guide offers practical examples and step-by-step instructions to help you understand and apply these foundational components effectively.
+
 ## Table of Contents
     Introduction
     Terraform Settings Block

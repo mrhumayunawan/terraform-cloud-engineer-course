@@ -1,7 +1,7 @@
----
-title: Install Terraform, Azure CLI and VSCode Editor
-description: Install all the tools required for learning Terraform on Azure Cloud
----
+
+# Setting Up Your Environment: Install Terraform, Azure CLI, and Visual Studio Code
+
+**Description:** Learn how to install and configure the essential tools required to work with Terraform on Azure Cloud effectively.
 
 ## Step-01: Introduction
 - Install [Terraform CLI](https://www.terraform.io/downloads.html)

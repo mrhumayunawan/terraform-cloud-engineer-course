@@ -1,7 +1,6 @@
----
-title: Terraform Command Basics
-description: Learn Terraform Commands like init, validate, plan, apply and destroy
----
+# Mastering Terraform Command Basics
+
+**Description:** A comprehensive guide to understanding and using essential Terraform commands, including `init`, `validate`, `plan`, `apply`, and `destroy`.
 
 ## Step-01: Introduction
 - Understand basic Terraform Commands

@@ -1,7 +1,6 @@
----
-title: Terraform Configuration Language Syntax
-description: Learn Terraform Configuration Language Syntax like Blocks, Arguments, Comments etc
----
+# Understanding Terraform Configuration Language Syntax
+
+**Description:** Explore the fundamentals of Terraform Configuration Language (HCL), including syntax for blocks, arguments, comments, and more.
 
 ## Step-01: Introduction
 - Understand Terraform Language Basics
